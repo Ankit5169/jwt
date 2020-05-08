@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jwt", "jwt\jwt.csproj", "{9079A34B-64F9-4B23-B7EC-DF8AEAC28BCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrgDAL", "OrgDAL\OrgDAL.csproj", "{0D958F6E-3D21-4EF4-A5D0-882B40708095}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9079A34B-64F9-4B23-B7EC-DF8AEAC28BCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9079A34B-64F9-4B23-B7EC-DF8AEAC28BCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9079A34B-64F9-4B23-B7EC-DF8AEAC28BCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9079A34B-64F9-4B23-B7EC-DF8AEAC28BCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D958F6E-3D21-4EF4-A5D0-882B40708095}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D958F6E-3D21-4EF4-A5D0-882B40708095}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D958F6E-3D21-4EF4-A5D0-882B40708095}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D958F6E-3D21-4EF4-A5D0-882B40708095}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D71CB12-51BA-437C-B8D9-6280D3851AB6}
+	EndGlobalSection
+EndGlobal
